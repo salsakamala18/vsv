@@ -1,2 +1,4 @@
+c_d="2022-07-23" ch_i="jubunara" ch_n="주부나라" c_i="y0W6oc8Gl84" c_n="#(인기급상승동영상)수박껍질을 버리지 말고 렌지에 넣으면 6번 깜짝 놀랍니다#1인식사"
 c_d="2022-09-27" ch_i="table_diary" ch_n="table diary 식탁일기" c_i="LQS_mnNLG3Q" c_n="Best Homemade Dumpling - Better Than Takeout (Dim Sum)"
+c_d="2023-01-22" ch_i="MoonyKitchen" ch_n="MoonyKitchen" c_i="NP5vh3RZlIM" c_n="Roll cabbage and tofu in rice paper‼️ It's healthy and delicious.😋"
 
