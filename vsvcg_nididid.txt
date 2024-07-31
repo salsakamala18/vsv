@@ -3,3 +3,5 @@ c_d="20231102" ch_i="penyuluh_pertanian" ch_n="Jarum Farm | Urban Gardening" c_i
 c_d="20240603" ch_i="DARIKAMIUNTUKKAMU" ch_n="DARI KAMI UNTUK KAMU" c_i="GCPG86luf4s" c_n="Kami Lakukan Teknik Menabung Media Tanam, Tanaman di Pot Jadi Subur dan Buahnya Lebat"
 c_d="20240510" ch_i="ooktani9328" ch_n="ook tani 93"  c_i="g1LYGplyewE" c_n="tutorial menanam cabe dari awal sampe berbuah.#cabe #garden #caberawit"
 c_d="20210613" ch_i="DaunTalasChanel" ch_n="Daun Talas Chanel" c_i="U-nNW2djTss" c_n="Tutorial Cabe Fertigasi Kapiler dari awal hingga panen"
+c_d="20191225" ch_i="DaunTalasChanel" ch_n="Daun Talas Chanel" c_i="cun-_s0bQAc" c_n="Cara Mudah Membuat Meracik Nutrisi Hidroponik Irigasi Kapiler Sendiri"
+
