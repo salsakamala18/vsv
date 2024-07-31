@@ -1,2 +1,2 @@
-ch_i="SisiLainTumbuhan" c_d="20240207" ch_n="Sisi Lain Tumbuhan" c_i="e8Ud0hXuTy4" c_n="Cara Buat Media Tanam Yang Kaya Unsur Hara Makro Mikro Dengan 2 Bahan Saja | Media Tanam Paling Joss" 
-
+c_d="20240207" ch_i="SisiLainTumbuhan" ch_n="Sisi Lain Tumbuhan" c_i="e8Ud0hXuTy4" c_n="Cara Buat Media Tanam Yang Kaya Unsur Hara Makro Mikro Dengan 2 Bahan Saja | Media Tanam Paling Joss" 
+c_d="20231102" ch_i="penyuluh_pertanian" ch_n="Jarum Farm | Urban Gardening" c_i="doM7CGTZgBQ" c_n="Di JEPANG Sangat diminati❗KOMPOS DAUN PISANG, Jawaranya KOMPOS"
